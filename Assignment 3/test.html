@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Introduction to JavaScript</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+<!-- Tasks
+    0. you should import d3 into the HTML in the <head> section;
+    1. you should load the dataset using d3.csv().then();
+    2. you should define a function getDataByMonth(data, m);
+        it filters out the data items whose month is equla to m;
+    3. remember to use the high order function of array.
+-->
+<h1>Reading the CSV file</h1>
+
+<script>
+    function getDataByMonth(data, m){
+        let filteredData = data.filter(d => d.month === m);
+        console.log(filteredData)
+    };
+
+    d3.csv("citi_bike_2020.csv").then( data => {
+        m = "Jan";
+        getDataByMonth(data, m);
+        //after the data is loaded, call the getDataByMonth
+    });
+</script>
+
+
+</body>
+</html>

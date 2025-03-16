@@ -1,0 +1,460 @@
+station,start_from,end_in,trip_duration_start_from,trip_duration_end_in,month
+Grove St PATH,3100,3548,269.0,266.0,Jan
+Sip Ave,1493,1310,386.0,362.0,Jan
+Newport Pkwy,641,661,509.0,492.0,Jan
+Columbus Dr at Exchange Pl,1152,1155,296.0,307.0,Jan
+City Hall,745,781,349.0,374.0,Jan
+Columbus Drive,556,606,280.0,284.0,Jan
+Harborside,1091,1093,323.0,321.0,Jan
+Marin Light Rail,904,848,271.5,315.0,Jan
+Newport PATH,989,953,382.0,370.0,Jan
+Newark Ave,720,717,260.0,281.0,Jan
+Van Vorst Park,528,461,311.5,291.0,Jan
+Journal Square,393,325,399.0,356.0,Jan
+Warren St,628,681,295.0,285.0,Jan
+Hamilton Park,1327,1342,301.0,309.0,Jan
+Oakland Ave,240,176,411.0,399.5,Jan
+Fairmount Ave,253,215,381.0,370.0,Jan
+McGinley Square,538,400,237.5,244.5,Jan
+Hilltop,150,113,457.0,427.0,Jan
+Baldwin at Montgomery,236,233,548.0,439.0,Jan
+5 Corners Library,127,100,399.0,564.5,Jan
+Riverview Park,118,102,719.0,362.0,Jan
+Jersey & 3rd,616,594,197.0,201.0,Jan
+Brunswick & 6th,776,651,326.0,331.0,Jan
+Washington St,575,614,327.0,347.5,Jan
+Monmouth and 6th,613,604,297.0,283.5,Jan
+Manila & 1st,632,666,254.5,261.5,Jan
+Dixon Mills,511,515,198.0,216.0,Jan
+Jersey & 6th St,584,483,240.5,262.0,Jan
+JC Medical Center,398,401,302.5,330.0,Jan
+Brunswick St,529,528,294.0,290.0,Jan
+Morris Canal,542,525,309.0,306.0,Jan
+Christ Hospital,147,124,458.0,519.5,Jan
+Paulus Hook,493,500,374.0,380.5,Jan
+Grand St,359,405,265.0,338.0,Jan
+Bergen Ave,275,283,374.0,361.0,Jan
+Montgomery St,259,245,410.0,323.0,Jan
+Astor Place,317,338,445.0,429.0,Jan
+Essex Light Rail,398,472,322.5,371.5,Jan
+Hoboken Ave at Monmouth St,150,189,533.5,514.0,Jan
+York St,192,245,242.0,318.0,Jan
+Lincoln Park,159,218,531.0,509.5,Jan
+Glenwood Ave,102,88,403.0,304.0,Jan
+Lafayette Park,212,201,563.0,586.0,Jan
+Leonard Gordon Park,89,77,546.0,526.0,Jan
+Pershing Field,235,247,558.0,509.0,Jan
+Dey St,94,130,293.0,234.5,Jan
+Jackson Square,76,61,999.5,781.0,Jan
+Liberty Light Rail,474,509,548.5,607.0,Jan
+Heights Elevator,140,107,757.5,1003.0,Jan
+Communipaw & Berry Lane,91,106,742.0,589.5,Jan
+Union St,53,63,836.0,685.0,Jan
+Newport Pkwy,657,659,463.0,461.0,Feb
+Manila & 1st,517,565,247.0,266.0,Feb
+City Hall,683,708,383.0,388.0,Feb
+Liberty Light Rail,461,485,583.0,622.0,Feb
+Newport PATH,978,964,373.5,346.0,Feb
+Dey St,114,132,330.5,255.5,Feb
+Warren St,487,556,289.0,308.5,Feb
+Hamilton Park,1202,1051,303.0,309.0,Feb
+Van Vorst Park,432,398,283.0,319.0,Feb
+Washington St,489,499,329.0,347.0,Feb
+Harborside,1058,1087,298.0,323.0,Feb
+Baldwin at Montgomery,257,220,494.0,511.0,Feb
+Columbus Drive,500,522,285.0,305.0,Feb
+Jersey & 6th St,516,391,221.0,254.0,Feb
+Grand St,315,354,289.0,327.5,Feb
+Newark Ave,631,648,263.0,266.0,Feb
+Marin Light Rail,746,716,286.0,322.0,Feb
+Oakland Ave,224,156,360.5,384.0,Feb
+Monmouth and 6th,521,441,294.0,284.0,Feb
+Fairmount Ave,244,201,381.0,380.0,Feb
+McGinley Square,531,389,255.0,251.0,Feb
+Lincoln Park,134,150,544.0,525.5,Feb
+Brunswick St,508,459,282.5,304.0,Feb
+Lafayette Park,194,209,592.0,640.0,Feb
+Brunswick & 6th,654,494,318.0,324.0,Feb
+Sip Ave,1402,1342,393.0,361.0,Feb
+York St,204,223,266.0,321.0,Feb
+JC Medical Center,317,326,330.0,368.5,Feb
+Riverview Park,99,74,758.0,657.0,Feb
+Christ Hospital,153,109,436.0,478.0,Feb
+Pershing Field,209,181,492.0,514.0,Feb
+Union St,59,83,758.0,699.0,Feb
+Astor Place,279,285,431.0,414.0,Feb
+Jersey & 3rd,526,528,202.0,219.5,Feb
+Dixon Mills,464,404,204.5,220.0,Feb
+Bergen Ave,274,240,381.5,366.0,Feb
+Essex Light Rail,300,322,325.0,366.5,Feb
+Grove St PATH,2328,3109,276.5,261.0,Feb
+Leonard Gordon Park,77,71,503.0,547.0,Feb
+Montgomery St,227,224,369.0,378.0,Feb
+Morris Canal,494,479,299.0,322.0,Feb
+Hoboken Ave at Monmouth St,146,171,497.5,472.0,Feb
+Hilltop,142,105,479.0,514.0,Feb
+Paulus Hook,440,442,370.5,358.5,Feb
+Journal Square,370,362,378.0,362.5,Feb
+Columbus Dr at Exchange Pl,922,1003,300.0,300.0,Feb
+Jackson Square,100,76,843.0,711.0,Feb
+5 Corners Library,109,94,407.0,666.5,Feb
+Heights Elevator,99,80,806.0,1002.5,Feb
+Communipaw & Berry Lane,49,57,671.0,550.0,Feb
+Glenwood Ave,120,112,432.5,313.0,Feb
+Newport PATH,699,674,430.0,445.0,Mar
+City Hall,510,566,409.0,424.0,Mar
+Jersey & 3rd,452,456,234.5,263.0,Mar
+McGinley Square,365,310,253.0,287.0,Mar
+Baldwin at Montgomery,225,216,521.0,553.5,Mar
+Essex Light Rail,227,235,468.0,414.0,Mar
+Manila & 1st,363,377,264.0,269.0,Mar
+Columbus Drive,395,410,357.0,352.5,Mar
+Fairmount Ave,198,155,513.0,451.0,Mar
+Brunswick St,321,287,328.0,319.0,Mar
+Morris Canal,436,446,544.0,540.0,Mar
+Marin Light Rail,740,694,474.0,542.0,Mar
+Columbus Dr at Exchange Pl,633,673,358.0,387.0,Mar
+Newark Ave,469,516,312.0,324.0,Mar
+Hamilton Park,910,871,357.5,368.0,Mar
+Brunswick & 6th,412,340,317.0,342.0,Mar
+Astor Place,196,210,435.5,426.0,Mar
+JC Medical Center,381,382,683.0,717.0,Mar
+Harborside,858,836,400.0,382.0,Mar
+Sip Ave,888,801,391.0,349.0,Mar
+Washington St,382,381,433.5,513.0,Mar
+Riverview Park,95,89,871.0,944.0,Mar
+Monmouth and 6th,294,271,307.5,283.0,Mar
+Glenwood Ave,120,94,891.5,843.5,Mar
+Van Vorst Park,372,370,389.0,505.0,Mar
+Grand St,239,240,366.0,417.5,Mar
+Newport Pkwy,641,693,693.0,711.0,Mar
+Warren St,434,426,368.5,391.0,Mar
+5 Corners Library,84,77,559.5,756.0,Mar
+Liberty Light Rail,676,685,1004.5,1480.0,Mar
+Grove St PATH,1335,1643,286.0,271.0,Mar
+Montgomery St,256,268,522.0,489.0,Mar
+Oakland Ave,133,105,378.0,487.0,Mar
+Dixon Mills,324,302,227.5,267.0,Mar
+Hilltop,172,126,599.5,670.0,Mar
+Lafayette Park,141,142,610.0,650.5,Mar
+Christ Hospital,101,85,496.0,632.0,Mar
+Pershing Field,185,181,628.0,656.0,Mar
+Jackson Square,64,63,976.0,774.0,Mar
+Lincoln Park,172,215,998.0,924.0,Mar
+Dey St,75,76,635.0,394.5,Mar
+Hoboken Ave at Monmouth St,138,155,620.5,530.0,Mar
+Paulus Hook,401,412,513.0,501.0,Mar
+Journal Square,232,203,439.0,397.0,Mar
+Communipaw & Berry Lane,64,66,795.5,687.0,Mar
+Jersey & 6th St,308,280,242.0,269.5,Mar
+Heights Elevator,98,89,1008.0,1269.0,Mar
+Union St,85,89,777.0,682.0,Mar
+Bergen Ave,209,212,366.0,363.0,Mar
+Leonard Gordon Park,71,60,778.0,830.0,Mar
+York St,140,161,345.5,452.0,Mar
+Fairmount Ave,124,121,745.0,723.0,Apr
+Oakland Ave,90,66,572.0,579.0,Apr
+Sip Ave,525,479,450.0,399.0,Apr
+Lincoln Park,95,105,972.0,1326.0,Apr
+Newark Ave,205,220,440.0,478.0,Apr
+Morris Canal,322,337,1379.5,1379.0,Apr
+Paulus Hook,277,277,1205.0,1215.0,Apr
+Hamilton Park,348,367,648.0,680.0,Apr
+Monmouth and 6th,147,135,618.0,595.0,Apr
+Bergen Ave,231,227,376.0,355.0,Apr
+Pershing Field,159,152,1107.0,1363.0,Apr
+Harborside,370,353,990.0,837.0,Apr
+City Hall,225,245,811.0,800.0,Apr
+Glenwood Ave,78,77,1150.0,1267.0,Apr
+Hilltop,136,110,717.5,685.0,Apr
+Marin Light Rail,416,404,1237.5,990.5,Apr
+Christ Hospital,96,62,513.5,722.5,Apr
+Jackson Square,63,56,857.0,1048.0,Apr
+Van Vorst Park,217,225,790.0,807.0,Apr
+Liberty Light Rail,347,360,1656.0,1688.5,Apr
+Essex Light Rail,128,133,761.0,750.0,Apr
+Jersey & 6th St,112,120,805.0,956.0,Apr
+Grand St,110,127,674.5,855.0,Apr
+York St,90,95,1144.5,747.0,Apr
+Union St,64,71,918.5,760.0,Apr
+Newport Pkwy,682,663,1108.5,1251.0,Apr
+Grove St PATH,328,424,433.0,516.5,Apr
+Baldwin at Montgomery,172,162,611.5,707.5,Apr
+Hoboken Ave at Monmouth St,147,144,1916.0,1998.0,Apr
+Lafayette Park,31,38,626.0,824.5,Apr
+Brunswick & 6th,125,134,705.0,767.5,Apr
+Columbus Dr at Exchange Pl,240,246,1000.5,921.0,Apr
+JC Medical Center,258,254,880.0,910.0,Apr
+Warren St,239,240,780.0,762.5,Apr
+Dey St,62,50,1336.5,1253.5,Apr
+Columbus Drive,244,235,897.0,895.0,Apr
+Dixon Mills,122,117,536.5,520.0,Apr
+Manila & 1st,112,124,542.5,686.5,Apr
+Jersey & 3rd,114,116,441.5,457.5,Apr
+Brunswick St,112,115,1351.0,955.0,Apr
+Montgomery St,176,188,680.0,526.5,Apr
+McGinley Square,214,175,384.5,534.0,Apr
+Newport PATH,263,261,853.0,787.0,Apr
+Washington St,248,242,1207.5,1406.0,Apr
+Riverview Park,54,53,1309.5,1437.0,Apr
+Astor Place,100,105,488.5,457.0,Apr
+Heights Elevator,80,90,1747.0,2013.5,Apr
+Journal Square,76,57,450.0,346.0,Apr
+Leonard Gordon Park,21,22,914.0,1260.0,Apr
+5 Corners Library,35,28,475.0,655.0,Apr
+Communipaw & Berry Lane,38,60,1267.5,780.5,Apr
+Sip Ave,597,582,555.0,404.5,May
+Columbus Dr at Exchange Pl,910,926,1266.0,1342.0,May
+Montgomery St,320,325,774.5,620.0,May
+Monmouth and 6th,264,262,1010.5,564.5,May
+McGinley Square,301,257,671.0,865.0,May
+Brunswick St,320,293,1006.0,1137.0,May
+Fairmount Ave,213,195,737.0,573.0,May
+Dixon Mills,300,295,780.0,582.0,May
+Morris Canal,752,759,1572.5,1476.0,May
+Newark Ave,587,596,799.0,775.5,May
+Oakland Ave,126,93,693.0,941.0,May
+Hamilton Park,996,1021,1135.5,876.0,May
+Harborside,937,923,1323.0,1210.0,May
+Columbus Drive,541,556,1179.0,969.0,May
+Bergen Ave,264,255,417.0,472.0,May
+Grove St PATH,1061,1108,830.0,784.0,May
+JC Medical Center,1068,1075,1555.5,1966.0,May
+Hilltop,247,219,983.0,923.0,May
+Marin Light Rail,1032,1027,1413.5,1459.0,May
+Newport Pkwy,1729,1742,1547.0,1550.0,May
+Christ Hospital,104,105,667.0,915.0,May
+Jackson Square,116,119,1030.5,1179.0,May
+5 Corners Library,82,75,1021.5,1015.0,May
+Brunswick & 6th,297,289,785.0,659.0,May
+Jersey & 6th St,288,286,867.0,774.0,May
+Washington St,684,703,1432.5,1488.0,May
+Glenwood Ave,129,127,1108.0,1434.0,May
+Lafayette Park,264,285,1487.0,1613.0,May
+Union St,145,150,1132.0,1052.5,May
+City Hall,808,810,1079.0,1142.5,May
+Essex Light Rail,274,278,1111.5,926.0,May
+Liberty Light Rail,2380,2415,2415.5,2272.0,May
+Astor Place,247,241,933.0,720.0,May
+Journal Square,147,118,689.0,954.5,May
+Lincoln Park,482,470,1725.0,1815.5,May
+Van Vorst Park,600,603,1373.5,1582.0,May
+Heights Elevator,329,328,1692.0,1816.0,May
+Jersey & 3rd,382,385,704.5,1071.0,May
+York St,285,270,1351.0,964.5,May
+Newport PATH,688,709,1176.5,1285.0,May
+Manila & 1st,388,387,924.0,878.0,May
+Dey St,140,120,1063.5,1021.0,May
+Hoboken Ave at Monmouth St,452,461,1668.0,1783.0,May
+Baldwin at Montgomery,312,313,859.5,982.0,May
+Warren St,657,673,1078.0,1009.0,May
+Communipaw & Berry Lane,239,244,1670.0,1699.0,May
+Grand St,429,421,1326.0,1380.0,May
+Paulus Hook,693,710,1571.0,1528.0,May
+Pershing Field,237,234,1308.0,1639.5,May
+Riverview Park,163,161,1689.0,1616.0,May
+Leonard Gordon Park,71,65,1833.0,1447.0,May
+Columbus Dr at Exchange Pl,1589,1607,1376.0,1407.0,Jun
+Heights Elevator,508,493,1736.0,1939.0,Jun
+Columbus Drive,796,793,859.5,829.0,Jun
+Morris Canal,1006,1010,1254.5,1110.0,Jun
+Harborside,1481,1494,1121.0,947.0,Jun
+Grove St PATH,1819,2073,618.0,603.0,Jun
+York St,377,379,1105.0,883.0,Jun
+Sip Ave,1025,938,557.0,463.5,Jun
+Hilltop,457,357,728.0,957.0,Jun
+Oakland Ave,195,150,705.0,782.5,Jun
+Lincoln Park,888,921,1690.5,1738.0,Jun
+Glenwood Ave,240,217,911.0,1280.0,Jun
+Hamilton Park,1694,1734,975.0,840.5,Jun
+Newport Pkwy,2604,2618,1387.0,1426.5,Jun
+Baldwin at Montgomery,546,524,695.5,791.0,Jun
+Washington St,933,933,1291.0,1336.0,Jun
+Newark Ave,898,914,767.0,654.5,Jun
+Bergen Ave,310,311,514.0,449.0,Jun
+Essex Light Rail,428,432,1164.5,927.5,Jun
+Christ Hospital,171,155,625.0,888.0,Jun
+Liberty Light Rail,2589,2621,2327.0,2249.0,Jun
+Brunswick St,442,447,673.5,604.0,Jun
+Marin Light Rail,1459,1490,1013.0,1054.0,Jun
+Monmouth and 6th,321,320,603.0,538.0,Jun
+JC Medical Center,1223,1237,1085.0,1415.0,Jun
+Van Vorst Park,801,815,977.0,1003.0,Jun
+Jersey & 6th St,484,492,610.0,604.5,Jun
+McGinley Square,533,389,511.0,674.0,Jun
+Paulus Hook,1141,1138,1503.0,1522.5,Jun
+Astor Place,373,379,747.0,724.0,Jun
+Hoboken Ave at Monmouth St,642,640,1455.5,1647.0,Jun
+City Hall,1061,1078,842.0,878.0,Jun
+Dey St,201,177,1100.0,852.0,Jun
+Riverview Park,273,260,1218.0,1419.5,Jun
+Jersey & 3rd,632,633,564.0,659.0,Jun
+Pershing Field,403,375,1214.0,1313.0,Jun
+Journal Square,199,171,727.0,674.0,Jun
+Union St,288,289,1619.0,1582.0,Jun
+Manila & 1st,521,521,811.0,779.0,Jun
+Newport PATH,1143,1138,1020.0,981.0,Jun
+Warren St,919,917,829.0,732.0,Jun
+Dixon Mills,350,365,460.0,455.0,Jun
+Montgomery St,403,403,763.0,622.0,Jun
+Jackson Square,215,225,1423.0,1672.0,Jun
+5 Corners Library,221,172,930.0,1061.0,Jun
+Grand St,632,645,990.0,1041.0,Jun
+Lafayette Park,361,388,1048.0,1343.0,Jun
+Communipaw & Berry Lane,262,277,1643.5,1468.0,Jun
+Fairmount Ave,279,263,731.0,671.0,Jun
+Brunswick & 6th,409,418,645.0,582.0,Jun
+Leonard Gordon Park,176,163,1184.0,1380.0,Jun
+Jackson Square,218,218,1180.5,1407.0,Jul
+Hoboken Ave at Monmouth St,555,549,1117.0,1217.0,Jul
+Columbus Dr at Exchange Pl,1467,1525,992.0,1072.0,Jul
+Glenwood Ave,196,193,658.5,988.0,Jul
+Union St,260,264,1378.5,1475.0,Jul
+Marin Light Rail,1612,1631,846.5,804.0,Jul
+Hilltop,364,300,704.5,799.5,Jul
+Grove St PATH,2210,2450,464.5,457.0,Jul
+Jersey & 6th St,564,563,379.0,443.0,Jul
+Harborside,1423,1422,898.0,818.0,Jul
+Lincoln Park,907,940,1471.0,1536.0,Jul
+Sip Ave,1433,1262,524.0,454.0,Jul
+Lafayette Park,509,535,1064.0,1118.0,Jul
+Dixon Mills,485,483,424.0,452.0,Jul
+Oakland Ave,297,200,804.0,1012.0,Jul
+Montgomery St,418,414,669.5,565.5,Jul
+Hamilton Park,1761,1776,674.0,625.5,Jul
+Leonard Gordon Park,153,148,929.0,1178.0,Jul
+Fairmount Ave,320,272,625.0,509.0,Jul
+Newport Pkwy,2679,2694,1204.0,1282.5,Jul
+Morris Canal,1079,1089,1045.0,946.0,Jul
+Bergen Ave,392,372,472.0,448.0,Jul
+Baldwin at Montgomery,573,571,663.0,712.0,Jul
+JC Medical Center,1398,1427,983.0,1159.0,Jul
+Warren St,1030,1037,667.0,642.0,Jul
+Riverview Park,199,198,1080.0,1236.0,Jul
+Van Vorst Park,804,829,649.0,669.0,Jul
+Essex Light Rail,535,557,672.0,738.0,Jul
+Newark Ave,968,970,597.0,529.0,Jul
+Washington St,988,986,1176.0,1005.5,Jul
+Pershing Field,371,367,1182.0,1277.0,Jul
+Jersey & 3rd,622,629,424.5,473.0,Jul
+Columbus Drive,815,802,831.0,783.0,Jul
+York St,391,390,623.0,693.0,Jul
+Monmouth and 6th,350,357,465.5,444.0,Jul
+Heights Elevator,369,357,1390.0,1559.0,Jul
+Liberty Light Rail,2322,2346,1921.5,1928.5,Jul
+Dey St,175,172,1101.0,925.0,Jul
+City Hall,1106,1176,727.5,592.5,Jul
+McGinley Square,582,400,416.0,393.5,Jul
+Paulus Hook,1069,1078,1268.0,1280.0,Jul
+Brunswick St,497,507,634.0,534.0,Jul
+Grand St,499,513,714.0,790.0,Jul
+Communipaw & Berry Lane,298,310,1346.5,1187.0,Jul
+Astor Place,411,393,599.0,596.0,Jul
+Christ Hospital,139,115,621.0,603.0,Jul
+Brunswick & 6th,441,445,539.0,487.0,Jul
+Newport PATH,1417,1418,891.0,824.0,Jul
+Manila & 1st,555,554,576.0,599.0,Jul
+5 Corners Library,195,197,894.0,1006.0,Jul
+Journal Square,258,246,672.0,781.0,Jul
+City Hall,1112,1185,606.0,577.0,Aug
+Grove St PATH,2581,2836,447.0,449.0,Aug
+Heights Elevator,440,422,1256.5,1563.5,Aug
+Paulus Hook,1101,1123,1060.0,1191.0,Aug
+Columbus Drive,935,939,696.0,616.0,Aug
+Washington St,1224,1227,1014.5,1037.0,Aug
+Harborside,1566,1557,729.5,698.0,Aug
+Newark Ave,889,924,589.0,541.0,Aug
+Marin Light Rail,1894,1928,799.5,779.0,Aug
+Columbus Dr at Exchange Pl,1695,1688,891.0,919.5,Aug
+Lincoln Park,753,832,1416.0,1414.0,Aug
+JC Medical Center,1657,1723,1062.0,1232.0,Aug
+Hilltop,460,346,775.5,836.0,Aug
+Jersey & 6th St,593,611,384.0,397.0,Aug
+Jackson Square,177,203,1204.0,1087.0,Aug
+Riverview Park,280,249,1092.5,1379.0,Aug
+Hoboken Ave at Monmouth St,567,579,1081.0,1116.0,Aug
+Sip Ave,1624,1435,511.5,433.0,Aug
+Essex Light Rail,498,522,677.0,687.0,Aug
+Newport PATH,1660,1690,843.0,838.5,Aug
+Monmouth and 6th,480,478,502.5,472.0,Aug
+Pershing Field,496,488,1005.0,1180.5,Aug
+McGinley Square,636,462,392.5,381.0,Aug
+Warren St,1216,1227,629.5,699.0,Aug
+Brunswick St,650,637,581.0,564.0,Aug
+Fairmount Ave,326,260,601.0,536.0,Aug
+Bergen Ave,474,429,464.5,429.0,Aug
+Baldwin at Montgomery,668,625,676.5,763.0,Aug
+Hamilton Park,1749,1804,634.0,594.0,Aug
+Newport Pkwy,3050,3052,1168.5,1212.0,Aug
+Glenwood Ave,249,243,865.0,972.0,Aug
+Leonard Gordon Park,173,155,938.0,1138.0,Aug
+Union St,211,239,1024.0,1108.0,Aug
+Dey St,230,228,1025.0,932.5,Aug
+Morris Canal,1332,1330,1062.5,1009.0,Aug
+Montgomery St,477,494,624.0,669.0,Aug
+Liberty Light Rail,2397,2426,2003.0,1989.0,Aug
+Manila & 1st,566,578,479.0,512.0,Aug
+Brunswick & 6th,530,558,548.0,496.0,Aug
+Jersey & 3rd,730,731,398.0,452.0,Aug
+York St,447,440,711.0,652.0,Aug
+Dixon Mills,582,582,439.5,436.0,Aug
+Van Vorst Park,966,972,659.0,719.5,Aug
+5 Corners Library,223,207,865.0,952.0,Aug
+Lafayette Park,489,550,874.0,838.5,Aug
+Oakland Ave,309,200,719.0,826.5,Aug
+Astor Place,439,434,567.0,713.0,Aug
+Grand St,558,591,617.0,640.0,Aug
+Communipaw & Berry Lane,345,385,1284.0,1092.0,Aug
+Journal Square,366,255,674.5,596.0,Aug
+Christ Hospital,197,158,682.0,871.0,Aug
+Grove St PATH,3664,4009,360.5,383.0,Sep
+Journal Square,434,364,626.0,589.5,Sep
+Union St,236,243,1246.0,1272.0,Sep
+Hamilton Park,2143,2260,561.0,565.0,Sep
+McGinley Square,936,664,420.0,386.5,Sep
+Baldwin at Montgomery,806,758,614.0,689.0,Sep
+Christ Hospital,218,185,626.0,723.0,Sep
+Newport Pkwy,3371,3396,974.0,1065.0,Sep
+Jersey & 3rd,880,905,314.5,381.0,Sep
+Astor Place,529,525,535.0,556.0,Sep
+Dixon Mills,725,711,391.0,382.0,Sep
+Essex Light Rail,740,740,638.5,654.5,Sep
+Marin Light Rail,2276,2275,621.0,667.0,Sep
+Warren St,1592,1596,480.5,486.0,Sep
+Fairmount Ave,554,428,532.5,428.5,Sep
+Lincoln Park,1045,1060,1402.0,1494.0,Sep
+Lafayette Park,631,675,695.0,737.0,Sep
+Columbus Drive,1085,1099,585.0,501.0,Sep
+Monmouth and 6th,732,743,404.0,432.0,Sep
+JC Medical Center,1853,1896,877.0,1012.0,Sep
+Washington St,1557,1584,877.0,848.5,Sep
+Jersey & 6th St,851,865,369.0,420.0,Sep
+Morris Canal,1521,1528,748.0,769.5,Sep
+Newport PATH,2295,2349,623.0,651.0,Sep
+Liberty Light Rail,2701,2710,1547.0,1700.5,Sep
+Sip Ave,1971,1836,476.0,431.0,Sep
+Van Vorst Park,1205,1222,584.0,586.0,Sep
+Glenwood Ave,342,309,763.5,917.0,Sep
+Brunswick St,864,870,516.0,480.5,Sep
+Brunswick & 6th,766,767,496.0,485.0,Sep
+City Hall,1540,1668,582.0,543.5,Sep
+Pershing Field,502,458,888.5,1111.5,Sep
+Columbus Dr at Exchange Pl,2001,2073,691.0,671.0,Sep
+Communipaw & Berry Lane,410,443,843.5,840.0,Sep
+Hilltop,621,432,697.0,796.5,Sep
+Harborside,1943,1942,614.0,567.0,Sep
+Paulus Hook,1110,1164,728.0,707.0,Sep
+Bergen Ave,493,400,486.0,424.0,Sep
+Grand St,858,869,547.0,587.0,Sep
+Heights Elevator,523,512,1135.0,1273.0,Sep
+York St,555,572,554.0,584.0,Sep
+Newark Ave,1175,1250,452.0,502.0,Sep
+Montgomery St,670,672,638.0,590.0,Sep
+Hoboken Ave at Monmouth St,620,628,933.5,935.0,Sep
+Manila & 1st,656,733,438.5,445.0,Sep
+Dey St,278,283,784.5,599.0,Sep
+Oakland Ave,366,245,641.5,876.0,Sep
+Jackson Square,199,193,976.0,1029.0,Sep
+5 Corners Library,324,290,792.0,834.0,Sep
+Riverview Park,310,274,998.5,1114.5,Sep
+Leonard Gordon Park,156,126,896.5,1130.5,Sep

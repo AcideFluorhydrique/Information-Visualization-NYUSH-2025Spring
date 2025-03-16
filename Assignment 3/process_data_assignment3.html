@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Introduction to JavaScript</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- 我需要引入D3库 -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+
+</head>
+<body>
+    <!-- Tasks
+        0. you should import d3 into the HTML in the <head> section;
+        1. you should load the dataset using d3.csv().then();
+        2. you should define a function getDataByMonth(data, m); 
+            it filters out the data items whose month is equal to m;
+        3. remember to use the high order function of array.
+    -->
+
+    <script>
+        function getDataByMonth(data, m){
+            return data.filter(
+                d => d.month === m
+            );
+        };
+
+        d3.csv('./citi_bike_2020.csv').then(data => {
+            // console.log("第一行: ", data[0]);
+            let m = "Jan";
+            let j = getDataByMonth(data, m);
+            // 在外部检查数据
+            console.log(j);
+
+            //after the data is loaded, call the getDataByMonth
+        });
+    </script>
+</body>
+</html>

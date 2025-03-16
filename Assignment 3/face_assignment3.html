@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Assignment 3</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+              rel="stylesheet"
+              integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+              crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+                integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+                crossorigin="anonymous"></script>
+        <link rel='stylesheet' href='styles.css'>
+    </head>
+
+    <body>
+        <div class="container">
+            <h1>Making faces using svg</h1>
+            <div class="d-flex justify-content-start mb-3">
+                <button onclick="smile()" class="btn btn-primary m-2">Smile</button>
+                <button onclick="shocked()" class="btn btn-primary m-2">Shocked</button> 
+                <button onclick="daze()" class="btn btn-primary m-2">Daze</button>
+                <button onclick="laugh()" class="btn btn-primary m-2">Laugh</button>
+                <button onclick="reset()" class="btn btn-danger m-2">Reset</button>
+            </div>
+            <div class="row">
+                <svg width='600' height="600">
+
+                    <!--Hints: 
+                        1. you can use <g> tag to group elements as one face; remember to 
+                            use the attribute transform = "translate(x, y)""
+                        2. you should use the given style.css; given the elements correct
+                            ids and classes, so they can appear as the style.css defined
+                        3. you should use <path> to draw the mouth
+                        4. face radius = 150; eye radius = 15
+                    -->
+                    <g id = "upleft">
+                        <rect x="0" y="0" width="300" height="300"/>
+<!--                        <image xlink:href="https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/selected-capture_one_catalog0152.jpg"/>-->
+                        <circle cx = "150"
+                                cy = "150"
+                                r = "150"
+                                class = "face"
+                        />
+                        <circle cx = "75"
+                                cy = "80"
+                                r = "15"
+                                class = "eye"
+                        />
+                        <circle cx = "225"
+                                cy = "80"
+                                r = "15"
+                                class = "eye"
+                        />
+                        <line x1="150"
+                              y1="85"
+                              x2="150"
+                              y2="155"
+                              class = "nose"
+                        />
+                        <path d = "M 75 175 Q 150 250, 225 175"
+                              class = "mouth"
+                        ></path>
+
+
+
+                    </g><!-- 左上 -->
+
+
+<!--                <g fill="pink">-->
+                    <g id = "upright">
+
+                        <rect x="300" y="0" width="300" height="300"/>
+<!--                        <image xlink:href="https://jie-xue.github.io/JX.jpg"/>-->
+                        <circle cx = "450"
+                                cy = "150"
+                                r = "150"
+                                class = "face"
+                        />
+                        <circle cx = "375"
+                                cy = "80"
+                                r = "15"
+                                class = "eye"
+                        />
+                        <circle cx = "525"
+                                cy = "80"
+                                r = "15"
+                                class = "eye"
+                        />
+                        <line x1="450"
+                              y1="85"
+                              x2="450"
+                              y2="155"
+                              class = "nose"
+                        />
+                        <path d="M 375 240 Q 450 180, 525 240 Z"
+                              class="mouth"
+                        />
+                    </g><!--右上-->
+
+
+                    <g id = "lowleft">
+
+                        <rect x="0" y="300" width="300" height="300"/>
+                        <circle cx = "150"
+                                cy = "450"
+                                r = "150"
+                                class = "face"
+                        />
+                        <circle cx = "75"
+                                cy = "380"
+                                r = "15"
+                                class = "eye"
+                        />
+                        <circle cx = "225"
+                                cy = "380"
+                                r = "15"
+                                class = "eye"
+                        />
+                        <line x1="150"
+                              y1="385"
+                              x2="150"
+                              y2="455"
+                              class = "nose"
+                        />
+                        <path d = "M 75 500 Q 150 500, 225 500"
+                              class = "mouth"
+                        ></path>
+
+                    </g><!-- 左下 -->
+
+
+                    <g id = "lowright">
+                        <rect x="300" y="300" width="300" height="300"/>
+                        <circle cx = "450"
+                                cy = "450"
+                                r = "150"
+                                class = "face"
+                        />
+                        <circle cx = "375"
+                                cy = "380"
+                                r = "15"
+                                class = "eye"
+                        />
+                        <circle cx = "525"
+                                cy = "380"
+                                r = "15"
+                                class = "eye"
+                        />
+                        <line x1="450"
+                              y1="385"
+                              x2="450"
+                              y2="455"
+                              class = "nose"
+                        />
+                        <path d="M 375 490 Q 450 550, 525 490 Z"
+                              class="mouth"
+                        />
+                    </g><!-- 右下-->
+
+                </svg>
+            </div>
+        </div>
+
+    </body>
+    <script>
+        // Hints:
+        // 1. you can set an id for each rectangle
+        // 2. you can use document.getElementById() to select the element
+        // 3. you can refer to the code of the function reset()
+        
+        var selected_id = "";
+        var color = ""
+        function smile(){
+            reset()
+
+            selected_id = "upleft"
+            color = window.getComputedStyle(document.getElementById("upleft")).fill
+            document.getElementById("upleft").style.fill = "red"
+        };
+
+        function shocked(){
+            reset()
+
+            selected_id = "upright"
+            color = window.getComputedStyle(document.getElementById("upright")).fill
+            document.getElementById("upright").style.fill = "red"
+        };
+
+        function daze(){
+            reset()
+
+            selected_id = "lowleft"
+            color = window.getComputedStyle(document.getElementById("lowleft")).fill
+            document.getElementById("lowleft").style.fill = "red"
+        };
+
+        function laugh(){
+            reset()
+
+            selected_id = "lowright"
+            color = window.getComputedStyle(document.getElementById("lowright")).fill
+            document.getElementById("lowright").style.fill = "red"
+        };
+
+        function reset(){
+            if (color!==""){
+                document.getElementById(selected_id).style.fill=color;
+            } 
+            // document.getElementById('lowright').style.fill = 'red';
+            selected_id = "";
+            color = ""; 
+        };
+    </script>
+</html>
